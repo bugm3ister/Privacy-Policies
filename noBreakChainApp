@@ -37,10 +37,6 @@ Personal Data
 
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
-Usage Data
-
-Usage Data
-
 Usage Data is collected automatically when using the Service.
 
 Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
@@ -94,6 +90,15 @@ Delete Your Personal Data
 You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
 
 Our Service may give You the ability to delete certain information about You from within the Service.
+
+Health and Fitness Data Disclosure
+Because No Break Chain can be used to track habits related to exercise, diet, wellness, or other physical activities, Google Play may categorize certain user inputs as "Health and Fitness Data."
+
+Please be aware of the following regarding any health or fitness-related information you enter:
+
+Local Storage Only: We do not collect, transmit, or share your health, fitness, or wellness data. Any habit names (e.g., "Drink Water," "Run 5km," "Take Medication") and their associated check-in logs are stored exclusively in the local SQLite database on your device.
+No Third-Party Sharing: Since the data never leaves your device, we do not share your health data with third parties, advertising networks, or data brokers.
+Data Control: You have full control over your data. You can delete all your habits and logs at any time by using the "Reset All Data" option in the App's Settings, or by uninstalling the application.
 
 You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
 
