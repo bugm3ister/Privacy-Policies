@@ -1,0 +1,38 @@
+Privacy Policy for Glance
+Effective Date: March 24, 2026
+
+1. Introduction
+O1E3 Studio ("we", "our", or "us") respects your privacy and is committed to protecting it through our compliance with this policy. This Privacy Policy explains how your information is collected, used, and stored when you use the Glance mobile application ("the App").
+
+2. Data Collection and Storage (Local-First)
+Glance is designed as a privacy-focused, offline-first micro-journal.
+
+Local Storage: All your daily journal entries, mood selections, and attached photos are stored locally on your device using integrated secure databases. We do NOT host your text entries or images on external servers, and we do NOT have access to read your journal.
+No Accounts Required: We do not require you to create an account, provide a name, phone number, or email address to use the core features of the App.
+3. Third-Party Services
+While the App's core functionality is offline, we utilize a reliable third-party service to manage subscriptions securely:
+
+RevenueCat: Used to manage in-app purchases and "Glance Premium" subscriptions. RevenueCat may collect an anonymous user ID and anonymous purchase history strictly to validate your subscription, unlock premium features, and handle purchase restorations.
+4. Health and Medical Disclaimer (Not a Medical Device)
+Glance includes features such as "mood tracking" to allow users to record their daily feelings and reflections. Please be aware:
+
+No Medical Advice: The App is designed solely for personal journaling and self-reflection. It is NOT a medical device, nor is it intended to diagnose, treat, cure, or prevent any physical or mental health conditions.
+No Health Data Sharing: We do not collect, process, or share your mood data or journal entries with any external health organizations, insurance companies, or third-party servers. All mood data remains strictly on your local device.
+If you are in distress: If you are experiencing a mental health crisis, please consult a qualified healthcare professional or contact emergency services immediately. The App cannot provide medical assistance.
+5. Device Permissions
+To provide its functionality, the App may request the following permissions on your device:
+
+Camera & Photo Library: Required to let you capture and attach photos to your daily journal entries. Photos you select or take are only saved locally within the App's directory on your device.
+Notifications: Required ONLY for the "Daily Reminder" feature to prompt you to write your entry. These are triggered locally by your device.
+6. Data Security & Backups
+Because your data is stored locally on your device, the security of your journal entries relies on your device’s security measures (such as screen locks or biometrics). We do not automatically backup your data to our cloud servers. If you delete the App, lose your device, or factory reset it, your data will be permanently lost unless explicitly backed up through standard device-level backups (i.e., Google Drive/iCloud device backups).
+
+7. Children’s Privacy
+The App does not knowingly collect personally identifiable information from children under 13.
+
+8. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after they are posted.
+
+9. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at o1e3studio@gmail.com.
+
