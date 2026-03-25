@@ -1,0 +1,76 @@
+Privacy Policy – Habitable App
+Effective Date: March 25, 2026 Developer: O1E3 Studio
+
+1. Introduction
+Welcome to Habitable ("the App"), a habit tracking application developed by O1E3 Studio ("we," "us," or "our"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
+
+By using the App, you agree to the terms of this Privacy Policy.
+
+2. Information We Collect
+2.1 Information You Provide
+Habit data: Names, colors, notes, and completion records for habits you create.
+All habit data is stored locally on your device and is never uploaded to our servers.
+2.2 Automatically Collected Information
+We do not collect any analytics or usage data directly. However, our third-party service providers may collect limited non-personal technical information as described below.
+
+2.3 Biometric Data
+If you enable the Privacy Lock feature, the App uses your device's biometric hardware (fingerprint, face recognition) or PIN to authenticate access. We do not collect, store, or transmit any biometric data. Authentication is handled entirely by your device's operating system (e.g., Android BiometricPrompt API).
+
+3. Third-Party Services
+3.1 RevenueCat (Subscription Management)
+We use RevenueCat to manage in-app subscriptions and purchases. RevenueCat may collect:
+
+Device identifiers (e.g., Google Advertising ID)
+Purchase transaction data and subscription status
+App version and platform information
+This data is used solely to validate and manage your premium subscription. RevenueCat does not have access to your habit or personal data.
+
+3.2 Google Play Billing
+In-app purchases are processed through Google Play Billing. Payment data is handled entirely by Google and never seen or stored by us.
+
+
+4. How We Use Your Information
+Data	Purpose
+Habit tracking data	Core app functionality (stored locally only)
+Biometric authentication	App lock / privacy protection (locally only)
+Subscription status via RevenueCat	Unlocking premium features
+Notification permissions	Sending habit reminders (on-device only)
+
+5. Data Storage & Security
+All habit data, streak records, and settings are stored locally on your device using a SQLite database (sqflite).
+No personal data is transmitted to our servers.
+Subscription status is synchronized with RevenueCat's servers over encrypted HTTPS connections.
+We implement industry-standard security measures to protect any limited data we do handle.
+
+6. Data Retention & Deletion
+All your habit data is deleted when you uninstall the App from your device.
+To cancel your subscription or manage your billing data, visit your Google Play account settings or the RevenueCat customer portal.
+We do not retain any personal data on our own servers.
+
+7. Children's Privacy
+The App is not directed at children under the age of 13. We do not knowingly collect any personal information from children. If you believe a child has provided us with personal information, please contact us and we will delete it promptly.
+
+8. Permissions Used
+Permission	Reason
+USE_BIOMETRIC / USE_FINGERPRINT	Privacy Lock feature (optional, user-controlled)
+POST_NOTIFICATIONS	Habit reminder notifications (optional)
+SCHEDULE_EXACT_ALARM	Precise daily habit reminders
+RECEIVE_BOOT_COMPLETED	Restore notification schedules after device restart
+INTERNET	RevenueCat subscription validation
+BILLING	Google Play in-app purchases
+
+9. User Rights
+You have the right to:
+
+Access the data stored locally on your device at any time through the App.
+Delete all your data by uninstalling the App.
+Opt out of RevenueCat data collection by not subscribing to Premium features.
+Disable biometric authentication at any time in Settings.
+
+10. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected by an updated Effective Date at the top of this page. Continued use of the App after changes constitutes your acceptance of the new policy.
+
+11. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us: o1e3studio@gmail.com
+
+o1e3.studio@gmail.com
