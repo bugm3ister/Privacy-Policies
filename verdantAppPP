@@ -1,0 +1,54 @@
+Privacy Policy for Verdant App
+
+*Last Updated: April 2, 2026*
+
+**O1E3 Studio** ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed by the **Verdant** mobile application ("the App").
+
+By downloading or using the App, you agree to this Privacy Policy. If you do not agree, please do not use the App.
+
+#1. Information We Collect
+
+To provide a private and fluid environment, the Verdant App is designed to minimize data collection. We collect information only when it is essential for the App’s core functionality.
+
+## A. Data Stored Locally (On Your Device)
+The core features of Verdant (focus timers, garden progression, and statistics) operate completely locally on your device. All your focus sessions, grown plants, and app settings are saved locally using SQLite and Shared Preferences. **We do not transmit, collect, or store this personal focus data on our servers.**
+
+## B. Automatically Collected Data
+When you use the App, we may collect certain information automatically through third-party services that help us provide and improve the App:
+
+*   **In-App Purchases & Subscriptions (RevenueCat):** To manage Premium features, we use RevenueCat. RevenueCat may collect an Anonymous App User ID, your purchase history, and device identifiers (such as OS version, device model) to properly grant you access to premium features and combat fraud. We do not process or store your payment information directly (e.g., credit card numbers); this is handled securely by Google Play.
+*   **Permissions:** 
+    *   *Notifications & Alarms:* We request notification and exact alarm permissions to alert you when your Focus or Break sessions are complete. Notifications are scheduled locally on your device.
+    *   *Vibration/Haptics:* We use device haptics to provide tactile feedback during interactions.
+
+2. How We Use Your Information
+
+The minimal information we or our third-party partners collect is used for the following purposes:
+*   **Operating the App:** To process and manage your in-app subscriptions and unlock "Verdant Pro" features.
+*   **App Functionality:** To send local push notifications when a timer finishes (no data leaves your device for this).
+*   **Compliance:** To comply with legal obligations and enforce our terms.
+
+3. Third-Party Services & Links
+
+The App uses third-party services that may collect information used to identify you. Below are the privacy policies of the third-party service providers used by the App:
+
+*   **Google Play Services:** [Google Privacy Policy](https://policies.google.com/privacy)
+*   **RevenueCat:** [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
+
+We cannot be responsible for the privacy practices of other sites or services.
+
+4. Children’s Privacy
+
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us.
+
+5. Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. However, remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security. Since most of your data is completely offline and stored on your physical device, protecting your device with a passcode or biometric lock is the best way to secure your information.
+
+6. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+7. Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: o1e3studio@gmail.com
