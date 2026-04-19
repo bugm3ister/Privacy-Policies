@@ -1,0 +1,44 @@
+# Privacy Policy
+
+**Effective Date:** April 20, 2026
+
+O1E3 Studio ("we," "us," or "our") operates the Wayfarer mobile application (the "Service"). This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+
+By using the Service, you agree to the collection and use of information in accordance with this policy.
+
+## 1. Information Collection and Use
+To provide and improve our Service, we may require you to provide us with certain personally identifiable information or request specific device permissions. The information that we request will be retained by us and used as described in this Privacy Policy.
+
+### Device Permissions
+Our application requests the following device permissions to provide core features, particularly around augmented reality (AR) and map navigation:
+
+*   **Camera Permission:** We require access to your device's camera to enable the AR Portal experience and allow you to take photos within the app.
+*   **Microphone Permission:** We may request microphone access if video recording features are utilized in conjunction with the camera.
+*   **Location Services (Foreground & Background):** As a navigation and wayfaring application, our Service requires access to your location data to show your current position on the map, provide nearby discoveries, and implement location-based features (e.g., fog layer exploration).
+*   **Storage and Photos:** We require read and write access to your device's storage and photo library to allow you to save images created within the app or upload existing images to your profile or diary.
+*   **Device Sensors (Accelerometer, Gyroscope):** The app may access motion sensors on your device to accurately render the Augmented Reality (AR) portal features and track orientation.
+*   **Internet and Network State:** Used to load map tiles, synchronize your data, and handle in-app purchases or subscriptions.
+
+## 2. In-App Purchases and Subscriptions
+Our application offers premium features through in-app purchases. We use third-party services (such as RevenueCat) to securely manage these transactions. We do not process or store your credit card or billing information directly. All payment processing is securely handled by the respective app stores (Google Play Store or Apple App Store).
+
+## 3. Log Data and Analytics
+We want to inform you that whenever you use our Service, in a case of an error in the app, we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ("IP") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+
+## 4. Local Storage
+We use local databases (such as SQLite and SharedPreferences) to store app data cleanly and securely on your device. This data (such as your diary entries, explored map regions, and pins) is kept on your device and is not transmitted to our servers unless specifically requested through a cloud-sync feature.
+
+## 5. Security
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+## 6. Links to Other Sites
+This Service may contain links to other sites (e.g., Wikipedia articles for nearby places). If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+## 7. Children's Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+## 8. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+## 9. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at o1e3studio@gmail.com.
