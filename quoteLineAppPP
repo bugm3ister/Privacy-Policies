@@ -1,0 +1,42 @@
+Privacy Policy for QuoteLine App
+Effective Date: 03 May 2026
+Developer: O1E3 Studio
+
+O1E3 Studio ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how QuoteLine App ("the App") handles information when you use our services.
+
+By downloading and using the App, you agree to the terms outlined in this Privacy Policy.
+
+1. Data Collection & Storage
+QuoteLine App is designed with a "privacy-first" and "offline-first" architecture.
+
+No Account Required: We do not require you to create an account, provide an email address, or share any personal identity information to use the core features of the App.
+Local Storage: All the data you create—including your books, folders, quotes, and tags—is stored strictly locally on your device's internal storage using an offline database (SQLite). We do not upload, sync, or transmit your quotes to any external servers or cloud databases.
+2. Permissions & Device Access
+To provide its core functionality, the App requires certain device permissions. We only request permissions that are absolutely necessary:
+
+Camera Access (android.permission.CAMERA)
+Why we need it: The App uses your device's camera to scan physical book pages and extract text using Optical Character Recognition (OCR).
+How it is processed: The text recognition is performed entirely on-device using Google ML Kit.
+What we DO NOT do: We do not save the photos you take. We do not upload your camera feed, images, or extracted text to our servers or any third-party servers. The images exist temporarily in your device's memory just long enough to extract the text and are immediately discarded.
+Storage & Media
+The App may temporarily use your device's cache/storage to generate high-resolution images when you use the "Aesthetic Share" feature to export a quote to social media. These generated images are saved locally and are only shared to other apps at your explicit command.
+3. Third-Party Services
+While we do not collect personal data, the App integrates with select third-party services to provide specific functionalities:
+
+RevenueCat: We use RevenueCat to manage "Curator Club" premium subscriptions and unlockable features. RevenueCat may generate an anonymous App User ID to track your purchase history and subscription status. It does not collect your personal name, email, or physical address. Read RevenueCat's Privacy Policy
+Google ML Kit: We use the on-device version of ML Kit for text recognition. This service runs locally and does not transmit your images to Google. Read Google's Privacy Policy
+App Stores (Google Play / Apple App Store): When you make an in-app purchase, the transaction is processed securely by the respective app store. We do not have access to your credit card information or billing details.
+4. Analytics & Tracking
+We do not track you.
+
+The App does not integrate any third-party analytics SDKs (such as Google Analytics or Firebase Crashlytics) that track your screen touches, usage duration, or personal habits.
+The App's "Gamification" and "AppStats" features (which track how many quotes you've added or your reading level) are calculated and stored 100% locally on your device.
+5. Children's Privacy
+Our App does not contain content harmful to children and does not knowingly collect any personal information from children under the age of 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top.
+
+7. Contact Us
+If you have any questions, concerns, or suggestions regarding this Privacy Policy, please contact us at:
+Email: o1e3studio@gmail.com
