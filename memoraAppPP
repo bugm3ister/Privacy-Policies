@@ -1,0 +1,46 @@
+Privacy Policy for Memora App
+Effective Date: May 6, 2026
+
+1. Introduction
+Welcome to Memora App ("we," "our," or "us"). We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy explains how we collect, use, and protect your data when you use our mobile application ("App").
+
+By using Memora App, you agree to the collection and use of information in accordance with this policy.
+
+2. Information We Collect and How We Use It
+Memora App is designed to maximize your privacy. We collect minimal information required for the App to function properly.
+
+2.1. Local Data Storage (Flashcards & User Preferences)
+All your flashcards, decks, study progress, and gamification data are stored locally on your device. We do not transmit, store, or process your personal study materials on any external servers.
+
+2.2. Camera and Photo Library Access
+To use the AI Flashcard Generation feature, the App requires access to your device's Camera and Photo Library.
+
+Processing: We use on-device Machine Learning (Google ML Kit) to extract text from your images or PDFs.
+Privacy: Images, documents, and extracted texts are processed entirely on your device. We do not upload, share, or store your photos or documents on our servers.
+2.3. Subscriptions and Payments (RevenueCat)
+For users who subscribe to MemoraApp Pro, we use a third-party service, RevenueCat, to manage subscriptions and in-app purchases.
+
+All payment transactions are securely handled by the Google Play Store or Apple App Store. We do not have access to your credit card information.
+RevenueCat may collect anonymous identifiers (such as an App User ID) to validate your subscription status and manage entitlements. Please review the RevenueCat Privacy Policy for more information.
+2.4. Data Export and Backups
+The App allows you to manually export your data (e.g., to Google Drive or via other sharing methods). This process is entirely initiated and controlled by you. We do not have automated access to your cloud storage accounts.
+
+3. Third-Party Services
+The App may use third-party code and libraries that collect information used to identify your device or facilitate app functionality. These services include:
+
+Google Play Services: For app delivery and basic analytics. (Privacy Policy)
+RevenueCat: For subscription management. (Privacy Policy)
+4. Data Security
+We value your trust in providing us with your data. Since your study data and images are stored and processed locally on your device, the security of this data relies on the security of your own device. We recommend utilizing device-level security features (such as PIN, fingerprint, or facial recognition) to protect your device.
+
+5. Children’s Privacy
+Our App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take necessary actions.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+7. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+
+Email: o1e3studio@gmail.com
+Developer: o1e3studio
