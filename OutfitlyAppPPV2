@@ -1,0 +1,41 @@
+Privacy Policy for Outfitly App
+Effective Date: May 10, 2026
+
+This Privacy Policy explains how Outfitly App ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application (the "Service").
+
+By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+1. Information We Collect
+A. Location Data
+To provide our Weather Recommendation feature, we may request access to your device’s location (GPS). This data is sent securely to our third-party weather provider (OpenWeatherMap) to fetch real-time weather conditions and suggest appropriate outfits. We do not store your continuous location history.
+
+B. Camera and Photos (Images & Receipts)
+Our Service allows you to take photos of your clothing and scan receipts.
+
+Image Processing: Basic background removal and image cropping are processed on your device.
+Smart Import (Receipt Scanning): We use Google ML Kit for text recognition on your receipts to automatically extract price data. This machine learning process happens entirely on-device; the actual images of your receipts are not sent to our servers.
+Web Link Import: When you provide an e-commerce link, the Service fetches public data (product name and image) from that URL.
+C. Cloud Storage and Account Data
+To enable features like Shared Closets, Mirror Look (Social Voting), and cross-device sync, we use Supabase as our backend provider. If you choose to create an account or use these features, your outfit images, wardrobe data, and user profile information will be securely stored on Supabase servers.
+
+D. Subscription and Purchase Data
+For Outfitly App Pro, we offer auto-renewing subscriptions processed by Google Play or Apple App Store. We use RevenueCat to manage these subscriptions. RevenueCat receives a receipt from the app store to validate your premium status. We do not collect or store your credit card details or sensitive financial information.
+
+2. Third-Party Service Providers
+We employ third-party companies and APIs to facilitate our Service. These third parties have access to your data only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose:
+
+Supabase: Cloud database and authentication.
+RevenueCat: Subscription management and validation.
+OpenWeatherMap: Weather data provider (receives approximate location coordinates).
+Google ML Kit: On-device machine learning (does not transmit data off-device).
+3. Data Security
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. However, remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+4. Your Rights (Data Deletion)
+If you have created an account, you have the right to request the deletion of your account and associated data (wardrobe items, outfits, and statistics) at any time. You can do this through the app settings or by contacting us directly.
+
+5. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
+
+6. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us: o1e3studio@gmail.com
