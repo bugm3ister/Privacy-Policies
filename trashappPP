@@ -1,0 +1,42 @@
+# Privacy Policy for TrashyApp
+
+**Effective Date:** 21 May 2026
+**Developer:** O1E3 Studio
+
+Thank you for choosing TrashyApp! Your privacy and the security of your personal data are incredibly important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application ("TrashyApp" or the "App").
+
+## 1. Information We Collect
+**TrashyApp is designed to operate entirely locally on your device.** 
+We **do not** collect, store, or transmit your personal photos, videos, or files to any external servers. 
+### Local Data Processing
+- **Gallery Access:** In order to provide features such as "Smart Clustering," "Blur Detection," and "Large Video Filtering," the App requests access to your device's photo gallery and media files. 
+- **On-Device Analysis:** All photo and video analysis (including object and face detection algorithms) occurs **strictly on your device** in real-time. 
+
+## 2. Third-Party Services
+While we do not transmit your media to any servers, the App utilizes some third-party libraries for core functionality:
+### Google ML Kit
+We use Google ML Kit for on-device machine learning capabilities (such as face and object detection). 
+- ML Kit processes your media locally on your device.
+- Google ML Kit may automatically collect some non-personal telemetry, diagnostics, and usage data (such as model download success rates and device capabilities) to improve its services. For more information, please review the [Google Privacy Policy](https://policies.google.com/privacy).
+
+## 3. Subscription & In-App Data
+- Your subscription status (Trashy Pro) and usage statistics (e.g., how much space you have cleaned, your daily streaks) are saved locally on your device via SharedPreferences. If you uninstall the app or clear its data, this local information may be lost unless backed up through your device's operating system (e.g., Google Drive backup).
+
+## 4. Permissions
+TrashyApp requires the following permissions to function:
+- **Read/Write Storage & Media Access:** To view your photos/videos and permanently delete the files you manually select to send to the trash.
+- **Notifications:** To send you local, on-device weekly reminders to clean your gallery.
+
+## 5. Security of Your Data
+Because your photos and videos never leave your device, they are as secure as the device itself. We strongly recommend keeping your device protected with a passcode, fingerprint, or face unlock.
+
+## 6. Children's Privacy
+TrashyApp does not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian and you believe your child has provided us with personal information, please contact us so we can take necessary actions.
+
+## 7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top. You are advised to review this Privacy Policy periodically for any changes.
+
+## 8. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+- **Developer:** O1E3 Studio
+- **Email:** o1e3studio@gmail.com
