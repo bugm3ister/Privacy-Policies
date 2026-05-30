@@ -1,0 +1,86 @@
+# Privacy Policy for PawsPort
+
+**Last Updated:** May 2026
+
+**o1e3studio** ("we," "our," or "us") is committed to protecting your privacy and ensuring you have a positive experience on our mobile application, **PawsPort** (the "App").
+
+This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App. By using the App, you agree to the collection and use of information in accordance with this policy.
+
+---
+
+## 1. Information We Collect
+
+### A. Personal Data
+When you create an account or use PawsPort, we may ask you to provide certain personally identifiable information that can be used to contact or identify you ("Personal Data"). This may include, but is not limited to:
+- Email address (if using Cloud Backup / Sync features via Firebase)
+- Display name
+- Subscription status and purchase history (managed via RevenueCat)
+
+### B. Pet Data
+To provide the core functionality of PawsPort, we collect and store information about your pets:
+- Pet name, species, breed, gender, and birth date
+- Medical records, vaccine schedules, weight data
+- Photos of your pets
+- Scanned veterinary documents (via our Smart OCR Scanner)
+
+### C. Usage Data
+We may collect information on how the App is accessed and used. This may include information such as your device's Internet Protocol address (e.g., IP address), device type, operating system, and diagnostic data.
+
+---
+
+## 2. How We Use Your Information
+
+We use the collected data for various purposes:
+- To provide and maintain the App (e.g., generating digital passports)
+- To notify you about changes to our App
+- To allow you to participate in interactive features of our App when you choose to do so
+- To provide customer care and support
+- To provide analysis or valuable information so that we can improve the App
+- To monitor the usage of the App
+- To detect, prevent, and address technical issues
+- To enable the **Cloud Backup & Sync** feature for PawsPort Pro users
+
+---
+
+## 3. Data Storage and Security
+
+**Local Storage (Free Users):**
+If you are a Free user, your data (including pet profiles and medical records) is stored locally on your device using an SQLite database. We do not transmit this data to our servers.
+
+**Cloud Storage (PawsPort Pro Users):**
+If you subscribe to PawsPort Pro and enable Cloud Backup, your data is securely transmitted and stored on our servers (powered by Google Firebase). We use industry-standard encryption and security measures to protect your data. However, remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure.
+
+---
+
+## 4. Smart Medical Scanner (OCR)
+
+Our App uses optical character recognition (OCR) to read veterinary documents. The text extraction process happens securely. We do not use the contents of your veterinary documents for any purpose other than organizing them within your personal PawsPort timeline.
+
+---
+
+## 5. Sharing Your Information
+
+We do not sell, trade, or rent your Personal Data to third parties. We may share your information only in the following situations:
+- **With Service Providers (Firebase):** We use Google Firebase to provide Cloud Backup, Authentication, and database synchronization for PawsPort Pro users. Your data is encrypted and securely stored on Firebase servers.
+- **With Payment Processors (RevenueCat):** We use RevenueCat to manage and validate in-app purchases and subscriptions. RevenueCat may process your app-store receipt data to verify your PawsPort Pro status, but does not have access to your personal pet data.
+- **For Legal Reasons:** We may disclose your information if required to do so by law or in response to valid requests by public authorities.
+
+---
+
+## 6. Children's Privacy
+
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top.
+
+---
+
+## 8. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+- **By email:** o1e3studio@gmail.com
+
