@@ -12,7 +12,7 @@ This Privacy Policy explains how we collect, use, disclose, and safeguard your i
 
 ### A. Personal Data
 When you create an account or use PawsPort, we may ask you to provide certain personally identifiable information that can be used to contact or identify you ("Personal Data"). This may include, but is not limited to:
-- Email address (if using Cloud Backup / Sync features via Firebase)
+- Email address and basic profile information (obtained via Google Sign-In or standard registration) for Cloud Backup / Sync features.
 - Display name
 - Subscription status and purchase history (managed via RevenueCat)
 
@@ -61,7 +61,7 @@ Our App uses optical character recognition (OCR) to read veterinary documents. T
 ## 5. Sharing Your Information
 
 We do not sell, trade, or rent your Personal Data to third parties. We may share your information only in the following situations:
-- **With Service Providers (Firebase):** We use Google Firebase to provide Cloud Backup, Authentication, and database synchronization for PawsPort Pro users. Your data is encrypted and securely stored on Firebase servers.
+- **With Service Providers (Firebase):** We use Google Firebase to provide Cloud Backup, Authentication (including Google Sign-In), and database synchronization for PawsPort Pro users. Your data is encrypted and securely stored on Firebase servers. We implement strict Firebase Security Rules to ensure that your data is only accessible by you. We, as the developers, do not access, view, or use your private pet data or medical records stored in the cloud.
 - **With Payment Processors (RevenueCat):** We use RevenueCat to manage and validate in-app purchases and subscriptions. RevenueCat may process your app-store receipt data to verify your PawsPort Pro status, but does not have access to your personal pet data.
 - **For Legal Reasons:** We may disclose your information if required to do so by law or in response to valid requests by public authorities.
 
@@ -83,4 +83,3 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy, please contact us:
 - **By email:** o1e3studio@gmail.com
-
